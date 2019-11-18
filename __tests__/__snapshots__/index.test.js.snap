@@ -3,17 +3,17 @@
 exports[`Testing Home page Should render Home page correctly 1`] = `
 <div>
   <div
-    className="Navstyle__NavWrapper-gqg6wh-0 lmjrHk"
+    className="Navstyle__NavWrapper-k2hc7s-0 elFFoK"
   >
     <header
-      className="MuiPaper-root MuiPaper-elevation4 MuiAppBar-root MuiAppBar-positionStatic Navstyle__AppBar-gqg6wh-3 jcTFza MuiAppBar-colorPrimary"
+      className="MuiPaper-root MuiPaper-elevation4 MuiAppBar-root MuiAppBar-positionStatic Navstyle__AppBar-k2hc7s-3 cUSxKI MuiAppBar-colorPrimary"
     >
       <div
-        className="MuiToolbar-root MuiToolbar-regular Navstyle__Toolbar-gqg6wh-4 dtDbCI MuiToolbar-gutters"
+        className="MuiToolbar-root MuiToolbar-regular Navstyle__Toolbar-k2hc7s-4 iAXDnm MuiToolbar-gutters"
       >
         <button
           aria-label="menu"
-          className="MuiButtonBase-root MuiIconButton-root Navstyle__IconButton-gqg6wh-5 hlSbxM MuiIconButton-colorInherit MuiIconButton-edgeStart"
+          className="MuiButtonBase-root MuiIconButton-root Navstyle__IconButton-k2hc7s-5 keANAi MuiIconButton-colorInherit MuiIconButton-edgeStart"
           disabled={false}
           onBlur={[Function]}
           onClick={[Function]}
@@ -302,7 +302,7 @@ exports[`Testing Home page Should render Home page correctly 1`] = `
           >
             <svg
               aria-hidden="true"
-              className="MuiSvgIcon-root Navstyle__MenuIcon-gqg6wh-6 eypDWF"
+              className="MuiSvgIcon-root Navstyle__MenuIcon-k2hc7s-6 jFKfHj"
               focusable="false"
               role="presentation"
               viewBox="0 0 24 24"
@@ -314,7 +314,7 @@ exports[`Testing Home page Should render Home page correctly 1`] = `
           </span>
         </button>
         <h6
-          className="MuiTypography-root Navstyle__Typography-gqg6wh-7 jUGLeQ MuiTypography-h6"
+          className="MuiTypography-root Navstyle__Typography-k2hc7s-7 bdujPe MuiTypography-h6"
         >
           HeyJobs React Assessment Task
         </h6>
@@ -322,10 +322,10 @@ exports[`Testing Home page Should render Home page correctly 1`] = `
     </header>
   </div>
   <div
-    className="MuiContainer-root indexstyle__Container-tr0emn-2 qqAZj MuiContainer-maxWidthXl"
+    className="MuiContainer-root indexstyle__Container-sc-48u1uv-2 aztTB MuiContainer-maxWidthXl"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root indexstyle__Card-tr0emn-1 hcZdNK MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root indexstyle__Card-sc-48u1uv-1 kUDLMc MuiPaper-rounded"
       theme={
         Object {
           "breakpoints": Object {
@@ -595,7 +595,7 @@ exports[`Testing Home page Should render Home page correctly 1`] = `
       }
     >
       <div
-        className="MuiCardHeader-root indexstyle__CardHeader-tr0emn-3 kDOojs"
+        className="MuiCardHeader-root indexstyle__CardHeader-sc-48u1uv-3 foXZoO"
       >
         <div
           className="MuiCardHeader-content"
@@ -608,17 +608,17 @@ exports[`Testing Home page Should render Home page correctly 1`] = `
         </div>
       </div>
       <hr
-        className="MuiDivider-root indexstyle__Divider-tr0emn-5 inIuxG"
+        className="MuiDivider-root indexstyle__Divider-sc-48u1uv-5 dtkaVQ"
       />
       <div
-        className="MuiCardContent-root indexstyle__CardContent-tr0emn-4 bOFGzf"
+        className="MuiCardContent-root indexstyle__CardContent-sc-48u1uv-4 fGDwOd"
       >
         <nav
           aria-label="main"
-          className="MuiList-root JobListstyle__List-sc-1ygoryw-2 KykpG MuiList-padding"
+          className="MuiList-root JobListstyle__List-momeoa-2 hUtGbr MuiList-padding"
         >
           <a
-            className="JobListstyle__LinkWrapper-sc-1ygoryw-0 gBYUPc"
+            className="JobListstyle__LinkWrapper-momeoa-0 jYRTzR"
             onClick={[Function]}
             onMouseEnter={[Function]}
           >
@@ -627,7 +627,7 @@ exports[`Testing Home page Should render Home page correctly 1`] = `
             >
               <div
                 aria-disabled={false}
-                className="MuiButtonBase-root MuiListItem-root JobListstyle__ListItem-sc-1ygoryw-3 jFqlNG MuiListItem-gutters MuiListItem-button MuiListItem-secondaryAction"
+                className="MuiButtonBase-root MuiListItem-root JobListstyle__ListItem-momeoa-3 erjBLb MuiListItem-gutters MuiListItem-button MuiListItem-secondaryAction"
                 onBlur={[Function]}
                 onDragLeave={[Function]}
                 onFocus={[Function]}
@@ -643,14 +643,14 @@ exports[`Testing Home page Should render Home page correctly 1`] = `
                 tabIndex={0}
               >
                 <div
-                  className="MuiListItemIcon-root JobListstyle__ListItemIcon-sc-1ygoryw-4 eFNIMo"
+                  className="MuiListItemIcon-root JobListstyle__ListItemIcon-momeoa-4 gbMZxd"
                 >
                   <div
-                    className="MuiAvatar-root MuiAvatar-rounded JobListstyle__Avatar-sc-1ygoryw-1 cWGqBW MuiAvatar-colorDefault"
+                    className="MuiAvatar-root MuiAvatar-rounded JobListstyle__Avatar-momeoa-1 fKNsBP MuiAvatar-colorDefault"
                   >
                     <svg
                       aria-hidden="true"
-                      className="MuiSvgIcon-root JobListstyle__BusinessCenterSharpIcon-sc-1ygoryw-8 kxgabw MuiSvgIcon-colorSecondary"
+                      className="MuiSvgIcon-root JobListstyle__BusinessCenterSharpIcon-momeoa-8 jTzvjF MuiSvgIcon-colorSecondary"
                       focusable="false"
                       role="presentation"
                       viewBox="0 0 24 24"
@@ -662,7 +662,7 @@ exports[`Testing Home page Should render Home page correctly 1`] = `
                   </div>
                 </div>
                 <div
-                  className="MuiListItemText-root JobListstyle__ListItemText-sc-1ygoryw-5 duoANx"
+                  className="MuiListItemText-root JobListstyle__ListItemText-momeoa-5 bZSKfy"
                 >
                   <span
                     className="MuiTypography-root MuiListItemText-primary MuiTypography-body1"
@@ -672,11 +672,11 @@ exports[`Testing Home page Should render Home page correctly 1`] = `
                 </div>
               </div>
               <div
-                className="MuiListItemSecondaryAction-root JobListstyle__ListItemSecondaryAction-sc-1ygoryw-6 jLUEbr"
+                className="MuiListItemSecondaryAction-root JobListstyle__ListItemSecondaryAction-momeoa-6 dqhpJs"
               >
                 <button
                   aria-label="delete"
-                  className="MuiButtonBase-root MuiIconButton-root JobListstyle__IconButton-sc-1ygoryw-9 iXhWJa MuiIconButton-edgeEnd"
+                  className="MuiButtonBase-root MuiIconButton-root JobListstyle__IconButton-momeoa-9 kocrPX MuiIconButton-edgeEnd"
                   disabled={false}
                   onBlur={[Function]}
                   onDragLeave={[Function]}
@@ -697,7 +697,7 @@ exports[`Testing Home page Should render Home page correctly 1`] = `
                   >
                     <svg
                       aria-hidden="true"
-                      className="MuiSvgIcon-root JobListstyle__ArrowForwardIosIcon-sc-1ygoryw-10 dpPOCJ"
+                      className="MuiSvgIcon-root JobListstyle__ArrowForwardIosIcon-momeoa-10 jBcbHO"
                       focusable="false"
                       role="presentation"
                       viewBox="0 0 24 24"
@@ -712,10 +712,10 @@ exports[`Testing Home page Should render Home page correctly 1`] = `
             </li>
           </a>
           <hr
-            className="MuiDivider-root JobListstyle__Divider-sc-1ygoryw-7 bVirou"
+            className="MuiDivider-root JobListstyle__Divider-momeoa-7 kwtdCv"
           />
           <a
-            className="JobListstyle__LinkWrapper-sc-1ygoryw-0 gBYUPc"
+            className="JobListstyle__LinkWrapper-momeoa-0 jYRTzR"
             onClick={[Function]}
             onMouseEnter={[Function]}
           >
@@ -724,7 +724,7 @@ exports[`Testing Home page Should render Home page correctly 1`] = `
             >
               <div
                 aria-disabled={false}
-                className="MuiButtonBase-root MuiListItem-root JobListstyle__ListItem-sc-1ygoryw-3 jFqlNG MuiListItem-gutters MuiListItem-button MuiListItem-secondaryAction"
+                className="MuiButtonBase-root MuiListItem-root JobListstyle__ListItem-momeoa-3 erjBLb MuiListItem-gutters MuiListItem-button MuiListItem-secondaryAction"
                 onBlur={[Function]}
                 onDragLeave={[Function]}
                 onFocus={[Function]}
@@ -740,14 +740,14 @@ exports[`Testing Home page Should render Home page correctly 1`] = `
                 tabIndex={0}
               >
                 <div
-                  className="MuiListItemIcon-root JobListstyle__ListItemIcon-sc-1ygoryw-4 eFNIMo"
+                  className="MuiListItemIcon-root JobListstyle__ListItemIcon-momeoa-4 gbMZxd"
                 >
                   <div
-                    className="MuiAvatar-root MuiAvatar-rounded JobListstyle__Avatar-sc-1ygoryw-1 cWGqBW MuiAvatar-colorDefault"
+                    className="MuiAvatar-root MuiAvatar-rounded JobListstyle__Avatar-momeoa-1 fKNsBP MuiAvatar-colorDefault"
                   >
                     <svg
                       aria-hidden="true"
-                      className="MuiSvgIcon-root JobListstyle__BusinessCenterSharpIcon-sc-1ygoryw-8 kxgabw MuiSvgIcon-colorSecondary"
+                      className="MuiSvgIcon-root JobListstyle__BusinessCenterSharpIcon-momeoa-8 jTzvjF MuiSvgIcon-colorSecondary"
                       focusable="false"
                       role="presentation"
                       viewBox="0 0 24 24"
@@ -759,7 +759,7 @@ exports[`Testing Home page Should render Home page correctly 1`] = `
                   </div>
                 </div>
                 <div
-                  className="MuiListItemText-root JobListstyle__ListItemText-sc-1ygoryw-5 duoANx"
+                  className="MuiListItemText-root JobListstyle__ListItemText-momeoa-5 bZSKfy"
                 >
                   <span
                     className="MuiTypography-root MuiListItemText-primary MuiTypography-body1"
@@ -769,11 +769,11 @@ exports[`Testing Home page Should render Home page correctly 1`] = `
                 </div>
               </div>
               <div
-                className="MuiListItemSecondaryAction-root JobListstyle__ListItemSecondaryAction-sc-1ygoryw-6 jLUEbr"
+                className="MuiListItemSecondaryAction-root JobListstyle__ListItemSecondaryAction-momeoa-6 dqhpJs"
               >
                 <button
                   aria-label="delete"
-                  className="MuiButtonBase-root MuiIconButton-root JobListstyle__IconButton-sc-1ygoryw-9 iXhWJa MuiIconButton-edgeEnd"
+                  className="MuiButtonBase-root MuiIconButton-root JobListstyle__IconButton-momeoa-9 kocrPX MuiIconButton-edgeEnd"
                   disabled={false}
                   onBlur={[Function]}
                   onDragLeave={[Function]}
@@ -794,7 +794,7 @@ exports[`Testing Home page Should render Home page correctly 1`] = `
                   >
                     <svg
                       aria-hidden="true"
-                      className="MuiSvgIcon-root JobListstyle__ArrowForwardIosIcon-sc-1ygoryw-10 dpPOCJ"
+                      className="MuiSvgIcon-root JobListstyle__ArrowForwardIosIcon-momeoa-10 jBcbHO"
                       focusable="false"
                       role="presentation"
                       viewBox="0 0 24 24"
@@ -809,7 +809,7 @@ exports[`Testing Home page Should render Home page correctly 1`] = `
             </li>
           </a>
           <hr
-            className="MuiDivider-root JobListstyle__Divider-sc-1ygoryw-7 bVirou"
+            className="MuiDivider-root JobListstyle__Divider-momeoa-7 kwtdCv"
           />
         </nav>
       </div>

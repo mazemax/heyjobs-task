@@ -4,10 +4,10 @@ import Link from 'next/link';
 import PropTypes from 'prop-types';
 import { useTheme } from '@material-ui/core/styles';
 
-import Nav from '../components/Nav/Nav';
+import Nav from '../components/Nav';
 import { Card, Avatar, Container, CardContent, CardHeader, CardMedia, CardActions, Typography,
          Grid, Divider, IconButton, ShareIcon, MoreVertIcon, BusinessCenterSharpIcon, ArrowBackIcon
-} from './detail.style';
+} from '../styles/detail.style';
 
 /**
  * Functional component for Detail page - uses Redux store to show Job data

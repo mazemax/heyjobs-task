@@ -5,9 +5,9 @@ import fetch from 'isomorphic-unfetch';
 import { useTheme } from '@material-ui/core/styles';
 
 import { resetJob } from '../store/home/action';
-import Nav from '../components/Nav/Nav';
-import JobList from '../components/JobList/JobList';
-import { Card, Container, CardHeader, CardContent, Divider, NoJobsWrapper } from './index.style';
+import Nav from '../components/Nav';
+import JobList from '../components/JobList';
+import { Card, Container, CardHeader, CardContent, Divider, NoJobsWrapper } from '../styles/index.style';
 
 /**
  * Functional component for Home page

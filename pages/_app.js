@@ -23,14 +23,6 @@ const theme = {
  * Extend App from NextJS
  */
 class MyApp extends App {
-    static async getInitialProps ({ Component, ctx }) {
-        return {
-            pageProps: Component.getInitialProps
-                ? await Component.getInitialProps(ctx)
-                : {}
-        }
-    }
-
     render() {
         const { Component, pageProps, store } = this.props;
 

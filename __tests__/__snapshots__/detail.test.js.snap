@@ -3,17 +3,17 @@
 exports[`Testing Detail page Should render Full time employment Detail page correctly 1`] = `
 <div>
   <div
-    className="Navstyle__NavWrapper-gqg6wh-0 lmjrHk"
+    className="Navstyle__NavWrapper-k2hc7s-0 elFFoK"
   >
     <header
-      className="MuiPaper-root MuiPaper-elevation4 MuiAppBar-root MuiAppBar-positionStatic Navstyle__AppBar-gqg6wh-3 jcTFza MuiAppBar-colorPrimary"
+      className="MuiPaper-root MuiPaper-elevation4 MuiAppBar-root MuiAppBar-positionStatic Navstyle__AppBar-k2hc7s-3 cUSxKI MuiAppBar-colorPrimary"
     >
       <div
-        className="MuiToolbar-root MuiToolbar-regular Navstyle__Toolbar-gqg6wh-4 dtDbCI MuiToolbar-gutters"
+        className="MuiToolbar-root MuiToolbar-regular Navstyle__Toolbar-k2hc7s-4 iAXDnm MuiToolbar-gutters"
       >
         <button
           aria-label="menu"
-          className="MuiButtonBase-root MuiIconButton-root Navstyle__IconButton-gqg6wh-5 hlSbxM MuiIconButton-colorInherit MuiIconButton-edgeStart"
+          className="MuiButtonBase-root MuiIconButton-root Navstyle__IconButton-k2hc7s-5 keANAi MuiIconButton-colorInherit MuiIconButton-edgeStart"
           disabled={false}
           onBlur={[Function]}
           onClick={[Function]}
@@ -302,7 +302,7 @@ exports[`Testing Detail page Should render Full time employment Detail page corr
           >
             <svg
               aria-hidden="true"
-              className="MuiSvgIcon-root Navstyle__MenuIcon-gqg6wh-6 eypDWF"
+              className="MuiSvgIcon-root Navstyle__MenuIcon-k2hc7s-6 jFKfHj"
               focusable="false"
               role="presentation"
               viewBox="0 0 24 24"
@@ -314,7 +314,7 @@ exports[`Testing Detail page Should render Full time employment Detail page corr
           </span>
         </button>
         <h6
-          className="MuiTypography-root Navstyle__Typography-gqg6wh-7 jUGLeQ MuiTypography-h6"
+          className="MuiTypography-root Navstyle__Typography-k2hc7s-7 bdujPe MuiTypography-h6"
         >
           HeyJobs React Assessment Task
         </h6>
@@ -322,10 +322,10 @@ exports[`Testing Detail page Should render Full time employment Detail page corr
     </header>
   </div>
   <div
-    className="MuiContainer-root detailstyle__Container-jufokx-6 eXjBCf MuiContainer-maxWidthXl"
+    className="MuiContainer-root detailstyle__Container-sc-3tm6ha-6 khZtvW MuiContainer-maxWidthXl"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root detailstyle__Card-jufokx-0 dKKaB MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root detailstyle__Card-sc-3tm6ha-0 cPoRHw MuiPaper-rounded"
       theme={
         Object {
           "breakpoints": Object {
@@ -595,18 +595,18 @@ exports[`Testing Detail page Should render Full time employment Detail page corr
       }
     >
       <div
-        className="MuiCardHeader-root detailstyle__CardHeader-jufokx-2 hBQosz"
+        className="MuiCardHeader-root detailstyle__CardHeader-sc-3tm6ha-2 KoHCG"
       >
         <div
           className="MuiCardHeader-avatar"
         >
           <div
             aria-label="job"
-            className="MuiAvatar-root MuiAvatar-rounded detailstyle__Avatar-jufokx-5 lfhjhu MuiAvatar-colorDefault"
+            className="MuiAvatar-root MuiAvatar-rounded detailstyle__Avatar-sc-3tm6ha-5 lncrqF MuiAvatar-colorDefault"
           >
             <svg
               aria-hidden="true"
-              className="MuiSvgIcon-root detailstyle__BusinessCenterSharpIcon-jufokx-13 atceu MuiSvgIcon-colorSecondary"
+              className="MuiSvgIcon-root detailstyle__BusinessCenterSharpIcon-sc-3tm6ha-13 leRVGt MuiSvgIcon-colorSecondary"
               focusable="false"
               role="presentation"
               viewBox="0 0 24 24"
@@ -636,7 +636,7 @@ exports[`Testing Detail page Should render Full time employment Detail page corr
         >
           <button
             aria-label="settings"
-            className="MuiButtonBase-root MuiIconButton-root detailstyle__IconButton-jufokx-14 tdOiw"
+            className="MuiButtonBase-root MuiIconButton-root detailstyle__IconButton-sc-3tm6ha-14 hUPusT"
             disabled={false}
             onBlur={[Function]}
             onDragLeave={[Function]}
@@ -657,7 +657,7 @@ exports[`Testing Detail page Should render Full time employment Detail page corr
             >
               <svg
                 aria-hidden="true"
-                className="MuiSvgIcon-root detailstyle__MoreVertIcon-jufokx-11 ffTvHh"
+                className="MuiSvgIcon-root detailstyle__MoreVertIcon-sc-3tm6ha-11 jomuMY"
                 focusable="false"
                 role="presentation"
                 viewBox="0 0 24 24"
@@ -671,16 +671,16 @@ exports[`Testing Detail page Should render Full time employment Detail page corr
         </div>
       </div>
       <hr
-        className="MuiDivider-root detailstyle__Divider-jufokx-7 hBzkWk"
+        className="MuiDivider-root detailstyle__Divider-sc-3tm6ha-7 iAZvvv"
       />
       <div
-        className="MuiGrid-root detailstyle__Grid-jufokx-9 eGVTod MuiGrid-container MuiGrid-spacing-xs-3"
+        className="MuiGrid-root detailstyle__Grid-sc-3tm6ha-9 hnOcng MuiGrid-container MuiGrid-spacing-xs-3"
       >
         <div
-          className="MuiGrid-root detailstyle__Grid-jufokx-9 eGVTod MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6 MuiGrid-grid-lg-4"
+          className="MuiGrid-root detailstyle__Grid-sc-3tm6ha-9 hnOcng MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6 MuiGrid-grid-lg-4"
         >
           <div
-            className="MuiCardMedia-root detailstyle__CardMedia-jufokx-3 cbMpoL"
+            className="MuiCardMedia-root detailstyle__CardMedia-sc-3tm6ha-3 MRoIe"
             style={
               Object {
                 "backgroundImage": "url(\\"/TheHuntIsOn.png\\")",
@@ -690,13 +690,13 @@ exports[`Testing Detail page Should render Full time employment Detail page corr
           />
         </div>
         <div
-          className="MuiGrid-root detailstyle__Grid-jufokx-9 eGVTod MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6 MuiGrid-grid-lg-8"
+          className="MuiGrid-root detailstyle__Grid-sc-3tm6ha-9 hnOcng MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6 MuiGrid-grid-lg-8"
         >
           <div
-            className="MuiCardContent-root detailstyle__CardContent-jufokx-1 eHzreu"
+            className="MuiCardContent-root detailstyle__CardContent-sc-3tm6ha-1 eKjkpN"
           >
             <p
-              className="MuiTypography-root detailstyle__Typography-jufokx-8 hhVfh MuiTypography-body2 MuiTypography-colorTextSecondary"
+              className="MuiTypography-root detailstyle__Typography-sc-3tm6ha-8 gLkQvw MuiTypography-body2 MuiTypography-colorTextSecondary"
             >
               Comfortable with modern JS stack, experience with React.
             </p>
@@ -704,10 +704,10 @@ exports[`Testing Detail page Should render Full time employment Detail page corr
         </div>
       </div>
       <hr
-        className="MuiDivider-root detailstyle__Divider-jufokx-7 hBzkWk"
+        className="MuiDivider-root detailstyle__Divider-sc-3tm6ha-7 iAZvvv"
       />
       <div
-        className="MuiCardActions-root detailstyle__CardActions-jufokx-4 jfIFaB"
+        className="MuiCardActions-root detailstyle__CardActions-sc-3tm6ha-4 inHGZU"
       >
         <a
           href="/"
@@ -716,7 +716,7 @@ exports[`Testing Detail page Should render Full time employment Detail page corr
         >
           <button
             aria-label="back to home"
-            className="MuiButtonBase-root MuiIconButton-root detailstyle__IconButton-jufokx-14 tdOiw"
+            className="MuiButtonBase-root MuiIconButton-root detailstyle__IconButton-sc-3tm6ha-14 hUPusT"
             disabled={false}
             onBlur={[Function]}
             onDragLeave={[Function]}
@@ -737,7 +737,7 @@ exports[`Testing Detail page Should render Full time employment Detail page corr
             >
               <svg
                 aria-hidden="true"
-                className="MuiSvgIcon-root detailstyle__ArrowBackIcon-jufokx-12 hhBZLa"
+                className="MuiSvgIcon-root detailstyle__ArrowBackIcon-sc-3tm6ha-12 iwZGwB"
                 focusable="false"
                 role="presentation"
                 viewBox="0 0 24 24"
@@ -751,7 +751,7 @@ exports[`Testing Detail page Should render Full time employment Detail page corr
         </a>
         <button
           aria-label="share"
-          className="MuiButtonBase-root MuiIconButton-root detailstyle__IconButton-jufokx-14 tdOiw"
+          className="MuiButtonBase-root MuiIconButton-root detailstyle__IconButton-sc-3tm6ha-14 hUPusT"
           disabled={false}
           onBlur={[Function]}
           onDragLeave={[Function]}
@@ -772,7 +772,7 @@ exports[`Testing Detail page Should render Full time employment Detail page corr
           >
             <svg
               aria-hidden="true"
-              className="MuiSvgIcon-root detailstyle__ShareIcon-jufokx-10 eVseXv"
+              className="MuiSvgIcon-root detailstyle__ShareIcon-sc-3tm6ha-10 dTVudS"
               focusable="false"
               role="presentation"
               viewBox="0 0 24 24"
@@ -792,17 +792,17 @@ exports[`Testing Detail page Should render Full time employment Detail page corr
 exports[`Testing Detail page Should render Part time employment Detail page correctly 1`] = `
 <div>
   <div
-    className="Navstyle__NavWrapper-gqg6wh-0 lmjrHk"
+    className="Navstyle__NavWrapper-k2hc7s-0 elFFoK"
   >
     <header
-      className="MuiPaper-root MuiPaper-elevation4 MuiAppBar-root MuiAppBar-positionStatic Navstyle__AppBar-gqg6wh-3 jcTFza MuiAppBar-colorPrimary"
+      className="MuiPaper-root MuiPaper-elevation4 MuiAppBar-root MuiAppBar-positionStatic Navstyle__AppBar-k2hc7s-3 cUSxKI MuiAppBar-colorPrimary"
     >
       <div
-        className="MuiToolbar-root MuiToolbar-regular Navstyle__Toolbar-gqg6wh-4 dtDbCI MuiToolbar-gutters"
+        className="MuiToolbar-root MuiToolbar-regular Navstyle__Toolbar-k2hc7s-4 iAXDnm MuiToolbar-gutters"
       >
         <button
           aria-label="menu"
-          className="MuiButtonBase-root MuiIconButton-root Navstyle__IconButton-gqg6wh-5 hlSbxM MuiIconButton-colorInherit MuiIconButton-edgeStart"
+          className="MuiButtonBase-root MuiIconButton-root Navstyle__IconButton-k2hc7s-5 keANAi MuiIconButton-colorInherit MuiIconButton-edgeStart"
           disabled={false}
           onBlur={[Function]}
           onClick={[Function]}
@@ -1091,7 +1091,7 @@ exports[`Testing Detail page Should render Part time employment Detail page corr
           >
             <svg
               aria-hidden="true"
-              className="MuiSvgIcon-root Navstyle__MenuIcon-gqg6wh-6 eypDWF"
+              className="MuiSvgIcon-root Navstyle__MenuIcon-k2hc7s-6 jFKfHj"
               focusable="false"
               role="presentation"
               viewBox="0 0 24 24"
@@ -1106,7 +1106,7 @@ exports[`Testing Detail page Should render Part time employment Detail page corr
           />
         </button>
         <h6
-          className="MuiTypography-root Navstyle__Typography-gqg6wh-7 jUGLeQ MuiTypography-h6"
+          className="MuiTypography-root Navstyle__Typography-k2hc7s-7 bdujPe MuiTypography-h6"
         >
           HeyJobs React Assessment Task
         </h6>
@@ -1114,10 +1114,10 @@ exports[`Testing Detail page Should render Part time employment Detail page corr
     </header>
   </div>
   <div
-    className="MuiContainer-root detailstyle__Container-jufokx-6 eXjBCf MuiContainer-maxWidthXl"
+    className="MuiContainer-root detailstyle__Container-sc-3tm6ha-6 khZtvW MuiContainer-maxWidthXl"
   >
     <div
-      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root detailstyle__Card-jufokx-0 dKKaB MuiPaper-rounded"
+      className="MuiPaper-root MuiPaper-elevation1 MuiCard-root detailstyle__Card-sc-3tm6ha-0 cPoRHw MuiPaper-rounded"
       theme={
         Object {
           "breakpoints": Object {
@@ -1387,18 +1387,18 @@ exports[`Testing Detail page Should render Part time employment Detail page corr
       }
     >
       <div
-        className="MuiCardHeader-root detailstyle__CardHeader-jufokx-2 hBQosz"
+        className="MuiCardHeader-root detailstyle__CardHeader-sc-3tm6ha-2 KoHCG"
       >
         <div
           className="MuiCardHeader-avatar"
         >
           <div
             aria-label="job"
-            className="MuiAvatar-root MuiAvatar-rounded detailstyle__Avatar-jufokx-5 lfhjhu MuiAvatar-colorDefault"
+            className="MuiAvatar-root MuiAvatar-rounded detailstyle__Avatar-sc-3tm6ha-5 lncrqF MuiAvatar-colorDefault"
           >
             <svg
               aria-hidden="true"
-              className="MuiSvgIcon-root detailstyle__BusinessCenterSharpIcon-jufokx-13 atceu MuiSvgIcon-colorSecondary"
+              className="MuiSvgIcon-root detailstyle__BusinessCenterSharpIcon-sc-3tm6ha-13 leRVGt MuiSvgIcon-colorSecondary"
               focusable="false"
               role="presentation"
               viewBox="0 0 24 24"
@@ -1428,7 +1428,7 @@ exports[`Testing Detail page Should render Part time employment Detail page corr
         >
           <button
             aria-label="settings"
-            className="MuiButtonBase-root MuiIconButton-root detailstyle__IconButton-jufokx-14 tdOiw"
+            className="MuiButtonBase-root MuiIconButton-root detailstyle__IconButton-sc-3tm6ha-14 hUPusT"
             disabled={false}
             onBlur={[Function]}
             onDragLeave={[Function]}
@@ -1449,7 +1449,7 @@ exports[`Testing Detail page Should render Part time employment Detail page corr
             >
               <svg
                 aria-hidden="true"
-                className="MuiSvgIcon-root detailstyle__MoreVertIcon-jufokx-11 ffTvHh"
+                className="MuiSvgIcon-root detailstyle__MoreVertIcon-sc-3tm6ha-11 jomuMY"
                 focusable="false"
                 role="presentation"
                 viewBox="0 0 24 24"
@@ -1466,16 +1466,16 @@ exports[`Testing Detail page Should render Part time employment Detail page corr
         </div>
       </div>
       <hr
-        className="MuiDivider-root detailstyle__Divider-jufokx-7 hBzkWk"
+        className="MuiDivider-root detailstyle__Divider-sc-3tm6ha-7 iAZvvv"
       />
       <div
-        className="MuiGrid-root detailstyle__Grid-jufokx-9 eGVTod MuiGrid-container MuiGrid-spacing-xs-3"
+        className="MuiGrid-root detailstyle__Grid-sc-3tm6ha-9 hnOcng MuiGrid-container MuiGrid-spacing-xs-3"
       >
         <div
-          className="MuiGrid-root detailstyle__Grid-jufokx-9 eGVTod MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6 MuiGrid-grid-lg-4"
+          className="MuiGrid-root detailstyle__Grid-sc-3tm6ha-9 hnOcng MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6 MuiGrid-grid-lg-4"
         >
           <div
-            className="MuiCardMedia-root detailstyle__CardMedia-jufokx-3 cbMpoL"
+            className="MuiCardMedia-root detailstyle__CardMedia-sc-3tm6ha-3 MRoIe"
             style={
               Object {
                 "backgroundImage": "url(\\"/TheHuntIsOn.png\\")",
@@ -1485,13 +1485,13 @@ exports[`Testing Detail page Should render Part time employment Detail page corr
           />
         </div>
         <div
-          className="MuiGrid-root detailstyle__Grid-jufokx-9 eGVTod MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6 MuiGrid-grid-lg-8"
+          className="MuiGrid-root detailstyle__Grid-sc-3tm6ha-9 hnOcng MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6 MuiGrid-grid-lg-8"
         >
           <div
-            className="MuiCardContent-root detailstyle__CardContent-jufokx-1 eHzreu"
+            className="MuiCardContent-root detailstyle__CardContent-sc-3tm6ha-1 eKjkpN"
           >
             <p
-              className="MuiTypography-root detailstyle__Typography-jufokx-8 hhVfh MuiTypography-body2 MuiTypography-colorTextSecondary"
+              className="MuiTypography-root detailstyle__Typography-sc-3tm6ha-8 gLkQvw MuiTypography-body2 MuiTypography-colorTextSecondary"
             >
               Comfortable with modern JS stack, experience with React.
             </p>
@@ -1499,10 +1499,10 @@ exports[`Testing Detail page Should render Part time employment Detail page corr
         </div>
       </div>
       <hr
-        className="MuiDivider-root detailstyle__Divider-jufokx-7 hBzkWk"
+        className="MuiDivider-root detailstyle__Divider-sc-3tm6ha-7 iAZvvv"
       />
       <div
-        className="MuiCardActions-root detailstyle__CardActions-jufokx-4 jfIFaB"
+        className="MuiCardActions-root detailstyle__CardActions-sc-3tm6ha-4 inHGZU"
       >
         <a
           href="/"
@@ -1511,7 +1511,7 @@ exports[`Testing Detail page Should render Part time employment Detail page corr
         >
           <button
             aria-label="back to home"
-            className="MuiButtonBase-root MuiIconButton-root detailstyle__IconButton-jufokx-14 tdOiw"
+            className="MuiButtonBase-root MuiIconButton-root detailstyle__IconButton-sc-3tm6ha-14 hUPusT"
             disabled={false}
             onBlur={[Function]}
             onDragLeave={[Function]}
@@ -1532,7 +1532,7 @@ exports[`Testing Detail page Should render Part time employment Detail page corr
             >
               <svg
                 aria-hidden="true"
-                className="MuiSvgIcon-root detailstyle__ArrowBackIcon-jufokx-12 hhBZLa"
+                className="MuiSvgIcon-root detailstyle__ArrowBackIcon-sc-3tm6ha-12 iwZGwB"
                 focusable="false"
                 role="presentation"
                 viewBox="0 0 24 24"
@@ -1549,7 +1549,7 @@ exports[`Testing Detail page Should render Part time employment Detail page corr
         </a>
         <button
           aria-label="share"
-          className="MuiButtonBase-root MuiIconButton-root detailstyle__IconButton-jufokx-14 tdOiw"
+          className="MuiButtonBase-root MuiIconButton-root detailstyle__IconButton-sc-3tm6ha-14 hUPusT"
           disabled={false}
           onBlur={[Function]}
           onDragLeave={[Function]}
@@ -1570,7 +1570,7 @@ exports[`Testing Detail page Should render Part time employment Detail page corr
           >
             <svg
               aria-hidden="true"
-              className="MuiSvgIcon-root detailstyle__ShareIcon-jufokx-10 eVseXv"
+              className="MuiSvgIcon-root detailstyle__ShareIcon-sc-3tm6ha-10 dTVudS"
               focusable="false"
               role="presentation"
               viewBox="0 0 24 24"
