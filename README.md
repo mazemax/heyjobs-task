@@ -76,3 +76,5 @@ Execute following command to print code coverage information in test output:
 ```
 yarn test:coverage
 ```
+
+![Coverage Report](./public/coverage.png)

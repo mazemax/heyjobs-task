@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Util functions When a new action is created 1`] = `
+Object {
+  "payload": "argName1",
+  "type": "ACTION_TEST",
+}
+`;
+
+exports[`Testing Util functions When a new reducer is created 1`] = `
+Object {
+  "payload": "argName2",
+  "type": "ACTION_TEST",
+}
+`;

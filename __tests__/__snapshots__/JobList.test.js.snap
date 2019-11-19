@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing JobList component Should trigger SET_JOB action in redux store correctly 1`] = `
+Array [
+  Object {
+    "payload": Object {
+      "description": "Comfortable with modern JS stack, experience with React.",
+      "employment_type": "full_time",
+      "id": "1",
+      "title": "Frontend Developer",
+    },
+    "type": "SET_JOB",
+  },
+]
+`;

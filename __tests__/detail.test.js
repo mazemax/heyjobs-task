@@ -71,4 +71,40 @@ describe('Testing Detail page', () => {
         expect(employmentType).not.toBeUndefined();
         expect(employmentType).toBeTruthy();
     });
+
+    test('Should get Detail page data correctly, when store is empty', async () => {
+        const emptyState = {
+            home: {
+            }
+        };
+        const emptyStore = mockStore(emptyState);
+
+        const result = await Detail.getInitialProps({store: emptyStore});
+        const { id, title, description, employmentType } = result;
+
+        expect(title).not.toBe('');
+        expect(description).not.toBe('');
+        expect(employmentType).not.toBe('');
+
+        expect(id).not.toBeNull();
+        expect(id).not.toBeUndefined();
+        expect(id).toBeTruthy();
+
+        expect(title).not.toBeNull();
+        expect(title).not.toBeUndefined();
+        expect(title).toBeTruthy();
+
+        expect(description).not.toBeNull();
+        expect(description).not.toBeUndefined();
+        expect(description).toBeTruthy();
+
+        expect(employmentType).not.toBeNull();
+        expect(employmentType).not.toBeUndefined();
+        expect(employmentType).toBeTruthy();
+
+        expect(id).toBe('0');
+        expect(title).toBe('Job Title');
+        expect(description).toBe('No description');
+        expect(employmentType).toBe('Full time');
+    });
 });

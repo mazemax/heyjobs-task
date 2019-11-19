@@ -1,56 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1574054772720" clover="3.2.0">
-  <project timestamp="1574054772720" name="All files">
-    <metrics statements="98" coveredstatements="90" conditionals="19" coveredconditionals="4" methods="19" coveredmethods="15" elements="136" coveredelements="109" complexity="0" loc="98" ncloc="98" packages="6" files="11" classes="11"/>
+<coverage generated="1574187529665" clover="3.2.0">
+  <project timestamp="1574187529666" name="All files">
+    <metrics statements="98" coveredstatements="96" conditionals="19" coveredconditionals="14" methods="19" coveredmethods="19" elements="136" coveredelements="129" complexity="0" loc="98" ncloc="98" packages="6" files="11" classes="11"/>
     <package name="heyjobs-test-task">
       <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
       <file name="jobData.js" path="/home/msaad/Desktop/heyjobs-test-task/jobData.js">
         <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-        <line num="5" count="1" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
       </file>
     </package>
     <package name="heyjobs-test-task.components">
-      <metrics statements="14" coveredstatements="10" conditionals="5" coveredconditionals="0" methods="7" coveredmethods="5"/>
+      <metrics statements="14" coveredstatements="13" conditionals="5" coveredconditionals="2" methods="7" coveredmethods="7"/>
       <file name="JobList.js" path="/home/msaad/Desktop/heyjobs-test-task/components/JobList.js">
-        <metrics statements="5" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
-        <line num="18" count="1" type="stmt"/>
-        <line num="20" count="1" type="stmt"/>
-        <line num="25" count="2" type="stmt"/>
-        <line num="27" count="0" type="stmt"/>
-        <line num="56" count="1" type="stmt"/>
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="25" count="4" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="56" count="2" type="stmt"/>
       </file>
       <file name="Nav.js" path="/home/msaad/Desktop/heyjobs-test-task/components/Nav.js">
-        <metrics statements="9" coveredstatements="6" conditionals="5" coveredconditionals="0" methods="4" coveredmethods="3"/>
-        <line num="15" count="3" type="stmt"/>
-        <line num="16" count="3" type="stmt"/>
-        <line num="20" count="12" type="stmt"/>
-        <line num="21" count="0" type="cond" truecount="0" falsecount="5"/>
+        <metrics statements="9" coveredstatements="8" conditionals="5" coveredconditionals="2" methods="4" coveredmethods="4"/>
+        <line num="15" count="6" type="stmt"/>
+        <line num="16" count="6" type="stmt"/>
+        <line num="20" count="24" type="stmt"/>
+        <line num="21" count="1" type="cond" truecount="2" falsecount="3"/>
         <line num="22" count="0" type="stmt"/>
-        <line num="25" count="0" type="stmt"/>
-        <line num="28" count="3" type="stmt"/>
-        <line num="29" count="3" type="stmt"/>
-        <line num="48" count="3" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="28" count="6" type="stmt"/>
+        <line num="29" count="6" type="stmt"/>
+        <line num="48" count="6" type="stmt"/>
       </file>
     </package>
     <package name="heyjobs-test-task.pages">
-      <metrics statements="19" coveredstatements="19" conditionals="8" coveredconditionals="3" methods="4" coveredmethods="4"/>
+      <metrics statements="19" coveredstatements="19" conditionals="8" coveredconditionals="8" methods="4" coveredmethods="4"/>
       <file name="detail.js" path="/home/msaad/Desktop/heyjobs-test-task/pages/detail.js">
-        <metrics statements="10" coveredstatements="10" conditionals="6" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <metrics statements="10" coveredstatements="10" conditionals="6" coveredconditionals="6" methods="2" coveredmethods="2"/>
         <line num="18" count="2" type="stmt"/>
         <line num="20" count="2" type="cond" truecount="2" falsecount="0"/>
         <line num="21" count="1" type="stmt"/>
         <line num="23" count="1" type="stmt"/>
         <line num="26" count="2" type="stmt"/>
         <line num="93" count="1" type="stmt"/>
-        <line num="94" count="1" type="stmt"/>
-        <line num="95" count="1" type="cond" truecount="0" falsecount="4"/>
-        <line num="96" count="1" type="stmt"/>
+        <line num="94" count="2" type="stmt"/>
+        <line num="95" count="2" type="cond" truecount="4" falsecount="0"/>
+        <line num="96" count="2" type="stmt"/>
         <line num="108" count="1" type="stmt"/>
       </file>
       <file name="index.js" path="/home/msaad/Desktop/heyjobs-test-task/pages/index.js">
-        <metrics statements="9" coveredstatements="9" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="2"/>
-        <line num="20" count="1" type="stmt"/>
-        <line num="22" count="1" type="stmt"/>
+        <metrics statements="9" coveredstatements="9" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
         <line num="58" count="1" type="stmt"/>
         <line num="60" count="1" type="stmt"/>
         <line num="61" count="1" type="stmt"/>
@@ -61,65 +61,65 @@
       </file>
     </package>
     <package name="heyjobs-test-task.store">
-      <metrics statements="10" coveredstatements="6" conditionals="6" coveredconditionals="1" methods="5" coveredmethods="3"/>
+      <metrics statements="10" coveredstatements="9" conditionals="6" coveredconditionals="4" methods="5" coveredmethods="5"/>
       <file name="util.js" path="/home/msaad/Desktop/heyjobs-test-task/store/util.js">
-        <metrics statements="10" coveredstatements="6" conditionals="6" coveredconditionals="1" methods="5" coveredmethods="3"/>
-        <line num="10" count="2" type="stmt"/>
-        <line num="11" count="1" type="stmt"/>
-        <line num="12" count="1" type="cond" truecount="1" falsecount="1"/>
-        <line num="13" count="1" type="stmt"/>
-        <line num="14" count="1" type="stmt"/>
-        <line num="16" count="1" type="stmt"/>
-        <line num="27" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="28" count="0" type="cond" truecount="0" falsecount="2"/>
+        <metrics statements="10" coveredstatements="9" conditionals="6" coveredconditionals="4" methods="5" coveredmethods="5"/>
+        <line num="10" count="5" type="stmt"/>
+        <line num="11" count="3" type="stmt"/>
+        <line num="12" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="14" count="3" type="stmt"/>
+        <line num="16" count="3" type="stmt"/>
+        <line num="27" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="28" count="1" type="cond" truecount="1" falsecount="1"/>
         <line num="29" count="0" type="stmt"/>
-        <line num="31" count="0" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
       </file>
     </package>
     <package name="heyjobs-test-task.store.home">
       <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
       <file name="action.js" path="/home/msaad/Desktop/heyjobs-test-task/store/home/action.js">
         <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-        <line num="6" count="1" type="stmt"/>
-        <line num="7" count="1" type="stmt"/>
-        <line num="9" count="1" type="stmt"/>
-        <line num="10" count="1" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
       </file>
     </package>
     <package name="heyjobs-test-task.styles">
       <metrics statements="50" coveredstatements="50" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
       <file name="JobList.style.js" path="/home/msaad/Desktop/heyjobs-test-task/styles/JobList.style.js">
         <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-        <line num="15" count="1" type="stmt"/>
-        <line num="20" count="1" type="stmt"/>
-        <line num="26" count="1" type="stmt"/>
-        <line num="31" count="1" type="stmt"/>
-        <line num="36" count="1" type="stmt"/>
-        <line num="41" count="1" type="stmt"/>
-        <line num="46" count="1" type="stmt"/>
-        <line num="51" count="1" type="stmt"/>
-        <line num="56" count="1" type="stmt"/>
-        <line num="61" count="1" type="stmt"/>
-        <line num="66" count="1" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="26" count="2" type="stmt"/>
+        <line num="31" count="2" type="stmt"/>
+        <line num="36" count="2" type="stmt"/>
+        <line num="41" count="2" type="stmt"/>
+        <line num="46" count="2" type="stmt"/>
+        <line num="51" count="2" type="stmt"/>
+        <line num="56" count="2" type="stmt"/>
+        <line num="61" count="2" type="stmt"/>
+        <line num="66" count="2" type="stmt"/>
       </file>
       <file name="Nav.style.js" path="/home/msaad/Desktop/heyjobs-test-task/styles/Nav.style.js">
         <metrics statements="16" coveredstatements="16" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-        <line num="17" count="2" type="stmt"/>
-        <line num="21" count="2" type="stmt"/>
-        <line num="25" count="2" type="stmt"/>
-        <line num="30" count="2" type="stmt"/>
-        <line num="35" count="2" type="stmt"/>
-        <line num="40" count="2" type="stmt"/>
-        <line num="42" count="3" type="stmt"/>
-        <line num="46" count="2" type="stmt"/>
-        <line num="51" count="2" type="stmt"/>
-        <line num="57" count="2" type="stmt"/>
-        <line num="62" count="2" type="stmt"/>
-        <line num="67" count="2" type="stmt"/>
-        <line num="72" count="2" type="stmt"/>
-        <line num="77" count="2" type="stmt"/>
-        <line num="82" count="2" type="stmt"/>
-        <line num="87" count="2" type="stmt"/>
+        <line num="17" count="3" type="stmt"/>
+        <line num="21" count="3" type="stmt"/>
+        <line num="25" count="3" type="stmt"/>
+        <line num="30" count="3" type="stmt"/>
+        <line num="35" count="3" type="stmt"/>
+        <line num="40" count="3" type="stmt"/>
+        <line num="42" count="6" type="stmt"/>
+        <line num="46" count="3" type="stmt"/>
+        <line num="51" count="3" type="stmt"/>
+        <line num="57" count="3" type="stmt"/>
+        <line num="62" count="3" type="stmt"/>
+        <line num="67" count="3" type="stmt"/>
+        <line num="72" count="3" type="stmt"/>
+        <line num="77" count="3" type="stmt"/>
+        <line num="82" count="3" type="stmt"/>
+        <line num="87" count="3" type="stmt"/>
       </file>
       <file name="detail.style.js" path="/home/msaad/Desktop/heyjobs-test-task/styles/detail.style.js">
         <metrics statements="16" coveredstatements="16" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
@@ -144,7 +144,7 @@
         <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="10" count="1" type="stmt"/>
         <line num="14" count="1" type="stmt"/>
-        <line num="19" count="1" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
         <line num="23" count="1" type="stmt"/>
         <line num="28" count="1" type="stmt"/>
         <line num="33" count="1" type="stmt"/>

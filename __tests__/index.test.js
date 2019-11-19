@@ -39,4 +39,17 @@ describe('Testing Home page', () => {
         expect(data.length).toBe(2);
         expect(status).toBe(200);
     });
+
+    test('Should render No Jobs case correctly', () => {
+        const props = {
+            data: [],
+            status: 400
+        };
+        const component = renderer.create(
+            <Provider store={store}>
+                <Home {...props} />
+            </Provider>
+        );
+        expect(component.toJSON()).toMatchSnapshot();
+    });
 });
