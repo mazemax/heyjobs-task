@@ -23,7 +23,7 @@ Thank you for assigning this simple test task!
 
 ## Assumptions
 
-Following are some assumptions made for implementing this solution:
+Following are some assumptions made to implement this solution:
 * Only job title is required to display list of available jobs.
 * Details of the job need to be retrieved from redux store, in order to demo redux skills.
 * Dummy data is hard-coded in `jobData.js` file. The job listing API reads this file and sends it in **json** format for client consumption.
