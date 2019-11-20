@@ -4,6 +4,7 @@ import PropTypes from 'prop-types';
 import fetch from 'isomorphic-unfetch';
 import { useTheme } from '@material-ui/core/styles';
 
+import { config } from '../config/config';
 import { resetJob } from '../store/home/action';
 import Nav from '../components/Nav';
 import JobList from '../components/JobList';
@@ -61,7 +62,7 @@ Home.getInitialProps = async ({ store }) => {
     dispatch(resetJob());
 
     // Fetch available jobs from API
-    const response = await fetch(`http://localhost:3000/api/job`);
+    const response = await fetch(config.apiBaseUrl + 'job');
     const data = await response.json();
 
     return {
