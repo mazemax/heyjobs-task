@@ -8,7 +8,7 @@ import configureStore from 'redux-mock-store';
 import JobList from '../components/JobList';
 import { jobs } from '../jobData';
 
-jest.mock("next/link", () => {
+jest.mock('next/link', () => {
     return ({children}) => {
         return children;
     }
@@ -36,7 +36,7 @@ describe('Testing JobList component', () => {
             </Provider>
         );
 
-        await component.find('a').first().simulate('click') ;
+        await component.find('a').first().simulate('click');
         expect(store.getActions()).toMatchSnapshot();
     });
 });

@@ -4,8 +4,9 @@ import PropTypes from 'prop-types';
 import { useDispatch } from 'react-redux';
 
 import { setJob } from '../store/home/action';
-import { Avatar, LinkWrapper, List, ListItem, ListItemIcon, ListItemText, ListItemSecondaryAction,
-         IconButton, Divider, BusinessCenterSharpIcon, ArrowForwardIosIcon
+import {
+    Avatar, LinkWrapper, List, ListItem, ListItemIcon, ListItemText, ListItemSecondaryAction,
+    IconButton, Divider, BusinessCenterSharpIcon, ArrowForwardIosIcon
 } from '../styles/JobList.style';
 
 /**

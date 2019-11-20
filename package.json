@@ -10,7 +10,8 @@
     "test-silent": "jest --silent",
     "test-update": "jest --updateSnapshot",
     "test:watch": "jest --watch",
-    "test:coverage": "jest --coverage"
+    "test:coverage": "jest --coverage",
+    "lint": "eslint './**/*.{js, jsx}'"
   },
   "dependencies": {
     "@material-ui/core": "^4.6.1",
@@ -33,10 +34,20 @@
   },
   "devDependencies": {
     "@babel/core": "^7.7.2",
+    "babel-eslint": "^10.0.3",
     "babel-jest": "^24.9.0",
     "babel-plugin-styled-components": "^1.10.6",
     "enzyme": "^3.10.0",
     "enzyme-adapter-react-16": "^1.15.1",
+    "eslint": "^6.6.0",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-json": "^2.0.1",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-react": "^7.16.0",
+    "eslint-plugin-standard": "^4.0.1",
     "jest": "^24.9.0",
     "react-addons-test-utils": "^15.6.2",
     "react-test-renderer": "^16.12.0",

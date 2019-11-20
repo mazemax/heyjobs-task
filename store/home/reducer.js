@@ -2,7 +2,7 @@ import { createReducer } from '../util';
 import {
     SET_JOB,
     RESET_JOB
-} from "./action";
+} from './action';
 
 /**
  * Initial State at Home page

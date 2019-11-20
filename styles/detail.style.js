@@ -93,7 +93,6 @@ export const ArrowBackIcon = styled(MaterialArrowBackIcon)`
   }
 `;
 
-
 export const BusinessCenterSharpIcon = styled(MaterialBusinessCenterSharpIcon)`
   && {
   }

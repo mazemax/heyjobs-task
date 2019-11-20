@@ -2,9 +2,10 @@ import React from 'react';
 import Link from 'next/link';
 import { useTheme } from '@material-ui/core/styles';
 
-import { NavWrapper, AppBar, Toolbar, IconButton, MenuIcon, HomeIcon, Typography, Divider,
-         List, ListItem, ListItemText, ListItemIcon, Drawer, SidebarWrapper, LinkWrapper
-} from "../styles/Nav.style";
+import {
+    NavWrapper, AppBar, Toolbar, IconButton, MenuIcon, HomeIcon, Typography, Divider,
+    List, ListItem, ListItemText, ListItemIcon, Drawer, SidebarWrapper, LinkWrapper
+} from '../styles/Nav.style';
 
 /**
  * Functional component for Navigation and AppBar

@@ -5,8 +5,9 @@ import PropTypes from 'prop-types';
 import { useTheme } from '@material-ui/core/styles';
 
 import Nav from '../components/Nav';
-import { Card, Avatar, Container, CardContent, CardHeader, CardMedia, CardActions, Typography,
-         Grid, Divider, IconButton, ShareIcon, MoreVertIcon, BusinessCenterSharpIcon, ArrowBackIcon
+import {
+    Card, Avatar, Container, CardContent, CardHeader, CardMedia, CardActions, Typography,
+    Grid, Divider, IconButton, ShareIcon, MoreVertIcon, BusinessCenterSharpIcon, ArrowBackIcon
 } from '../styles/detail.style';
 
 /**

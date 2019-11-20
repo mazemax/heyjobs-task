@@ -1,14 +1,13 @@
 /* eslint-env jest */
 
-import React from 'react';
-import { makeActionCreator, createReducer } from "../store/util";
+import { makeActionCreator, createReducer } from '../store/util';
 
 describe('Testing Util functions', () => {
     test('When a new action is created', async () => {
         const ACTION_TEST = 'ACTION_TEST';
         const actionFn = makeActionCreator(ACTION_TEST, ['payload']);
 
-        let action = actionFn('argName1');
+        const action = actionFn('argName1');
         expect(action).toMatchSnapshot();
     });
 
@@ -18,11 +17,11 @@ describe('Testing Util functions', () => {
             argName1: 'argName1'
         };
         const actionObject = {
-            type: "ACTION_TEST",
-            payload: "argName2"
+            type: 'ACTION_TEST',
+            payload: 'argName2'
         };
 
-        let reducerFn = createReducer(initialState, {
+        const reducerFn = createReducer(initialState, {
             [ACTION_TEST]: (state, action) => {
                 return {
                     ...state,
@@ -31,7 +30,7 @@ describe('Testing Util functions', () => {
             }
         });
 
-        let reducerResult = reducerFn.call(initialState, actionObject);
+        const reducerResult = reducerFn.call(initialState, actionObject);
         expect(reducerResult).toMatchSnapshot();
     });
 });
